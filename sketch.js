@@ -1,11 +1,11 @@
 let menu;
 function preload() {
-  menu = loadImage("ARCCOS.png");
-  inst = loadImage("ARCCOSinst.png");
-  cred = loadImage("ARCCOScred.png");
-  level = loadImage("ARCCOSlevel.png");
-  prbs = loadImage("ARCCOSprbs.png");
-  s2 = loadImage("ARCCOSs2.png");
+  menu = loadImage("/assets/ARCCOS.png");
+  inst = loadImage("/assets/ARCCOSinst.png");
+  cred = loadImage("/assets/ARCCOScred.png");
+  level = loadImage("/assets/ARCCOSlevel.png");
+  prbs = loadImage("/assets/ARCCOSprbs.png");
+  s2 = loadImage("/assets/ARCCOSs2.png");
 }
 
 let tela = 0;
